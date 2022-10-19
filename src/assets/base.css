@@ -1,0 +1,9 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Silkscreen&display=swap');
+body {
+    background-color: rgb(184, 127, 127);
+    /* font-family: 'Lato', sans-serif; */
+    font-family: 'Lato', sans-serif;
+    font-family: 'Silkscreen', cursive;
+}
